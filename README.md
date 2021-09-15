@@ -26,6 +26,6 @@
   </tr>
 </table>
 
-1.[Реферат](.\https://github.com/Popov-555/peferat/blob/main/1111.pdf#реферат)
+1.[Реферат](.\blob/main/1111.pdf#реферат)
 
 # Реферат
